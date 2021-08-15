@@ -1,11 +1,13 @@
 """
-Module for creating the SpatialGraph class.
+Module for creating the SpatialGraph and SpatialDiGraph class.
 
 The SpatialGraph class is a child class of NetworkX's Graph class
 and inherits all its functionality. It has the additional
 attributes dists, locs and part which to store the
 pairwise distances between nodes, node spatial locations
-and the graph's community structure, if known.
+and the graph's community structure, if known. The SpatialGraph and
+SpatialDiGraph classes streamlines the use of other functions in
+this package.
 
 Additionally it has two class methods which allow it to be
 instantiated as a random spatial network from a list of parameters.
@@ -89,6 +91,12 @@ class SpatialDiGraph(DiGraph):
         new_graph.fmat = self.fmat.copy()
         return new_graph
 
+    def subgraph(self, nodelist):
+        g = super().subgraph(nodelist)
+        g.fmat = self.fmat[nodelist, :][:, nodelist]
+        g.dists = self.dists[nodelist, :][:, nodelist]
+        return g
+
     def export_matrices(self, out_fmat=None, out_dmat=None,
                         copy_to_clip=True):
         """
@@ -156,8 +164,10 @@ class SpatialDiGraph(DiGraph):
               f"flow, distance and partition files to:\n"
               f"    {outpath}.npz\n")
 
+    # def draw_spring(self, ...)
+
     def draw_spatial(self, coords=None, figsize=(20, 10), cols=None,
-                     node_mag=2., edge_mag=0.1,
+                     node_add=0, node_mag=2., edge_mag=0.1,
                      edge_col='#2db7d6', ax=None):
         if not cols:
             if self.part:
@@ -167,7 +177,7 @@ class SpatialDiGraph(DiGraph):
                 cols = '#2a57eb'
         weights = [0.1 + edge_mag * self[u][v]['weight']
                    for u, v in self.edges()]
-        degs = [node_mag *
+        degs = [node_add + node_mag *
                 x for x in dict(self.degree(weight="weight")).values()]
 
         if self.locs:
@@ -179,7 +189,7 @@ class SpatialDiGraph(DiGraph):
         if ax == None:
             fig, ax = plt.subplots(figsize=figsize)
         nx.draw(self, pos, node_size=degs, node_color=cols,
-                edge_color=edge_color, width=weights, alpha=0.85, ax=ax)
+                edge_color=edge_col, width=weights, alpha=0.85, ax=ax)
         limits = plt.axis('on')
         ax.tick_params(left=True, bottom=True,
                        labelleft=True, labelbottom=True)
@@ -674,7 +684,7 @@ class SpatialGraph(Graph):
 
     @classmethod
     def from_gravity_benchmark(cls, lamb: float, rho: float, N=20,
-                               len=10., ell=1., decay_method="invpow", seed=None):
+                               len=10., ell=2., decay_method="invpow", seed=None):
         """
         Create an undirected gravity benchmark spatial graph.
 
@@ -838,12 +848,12 @@ class SpatialGraph(Graph):
         Network formulation inspired by [1]
         Parameters:
         -----------
-        lamb : float
+        lamb : float, range=(0, 1)
             'strength' of CP structure. lamb=0 corresponds to ideal CP
-            structure.
-        mu : float
+            structure. Network close to the configuration model for large lamb.
+        mu : float, range=(0, 0.5)
             discrepancy between degree distribution in cores vs. in
-            peripheries;
+            peripheries; no overlap between degree distrutions for mu=0
         rho : float
             density of the edges and magnitude of the weights; the synthetic
             graph will have L = rho * N * (N - 1) edges where N is the number
@@ -947,6 +957,6 @@ class SpatialGraph(Graph):
         # construct the SpatialGraph
         g = cls.from_numpy_array(fmat, dists=dmat)
         g.part = partition
-        g.cores = cps
+        g.cps = cps
         g.locs = nlocs
         return g

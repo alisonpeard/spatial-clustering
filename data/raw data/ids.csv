@@ -1,0 +1,1394 @@
+id,port,country
+0,Abbot Point,Australia
+1,Abenra,Denmark
+2,Aberdeen,U.S.A.
+3,Aberdeen,United Kingdom
+4,Abidjan,Cote d'Ivoire
+5,Abu Zaby,United Arab Emirates
+6,Acajutla,El Salvador
+7,Acapulco,Mexico
+8,Ad Dakhla,Western Sahara
+9,Aden,Yemen
+10,Agadir,Morocco
+11,Ahus,Sweden
+12,Aiyion,Greece
+13,Ajman,United Arab Emirates
+14,Akita-Funakawa Ko,Japan
+15,Ako,Japan
+16,Aktau Port,Kazakhstan
+17,Akureyri,Iceland
+18,Al Ahmadi,Yemen
+19,Al Aqabah,Jordan
+20,Al Basrah,Iraq
+21,Al Burayqah,Libya
+22,Al Hamriyah LPG Terminal,United Arab Emirates
+23,Al Iskandariyh (Alexandria),Egypt
+24,Al Jubayl,Saudi Arabia
+25,Al Kuwayt,Kuwait
+26,Al Ladhiqiyah,Syria
+27,Al Mukalla,Yemen
+28,Albany,Australia
+29,Alborg,Denmark
+30,Alesund,Norway
+31,Algeciras,Spain
+32,Alger,Algeria
+33,Aliaga,Turkey
+34,Alicante,Spain
+35,Almeria,Spain
+37,Alotoa,Papua New Guinea
+38,Altamira,Mexico
+39,Alvika,Norway
+40,Amagasaki,Japan
+41,Amamapare,Indonesia
+42,Ambon,Indonesia
+43,Amirabad Port,Iran
+44,Ampenan,Indonesia
+45,Amsterdam,Netherlands
+46,Amuay (Bahia De Amuay),Venezuela
+47,Anacortes,Canada
+48,Anchorage,U.S.A.
+49,Ancona,Italy
+50,Andoany,Madagascar
+51,Andres (Andres LGN Terminal),Dominican Republic
+52,Anguilla,Anguilla
+53,Annaba,Algeria
+54,Antalya,Turkey
+55,Antisranana,Madagascar
+56,Antofagasta,Chile
+57,Antwerp,Belgium
+58,Anzali Port,Iran
+59,Aomori Ko,Japan
+60,Apia,Samoa
+61,Apra Harbor,Guam
+62,Aratu,Brazil
+63,Arawak,Barbados
+64,Ardalstangen,Norway
+65,Ardel,Norway
+66,Argentia,Canada
+67,Arhus,Denmark
+68,Arkhangels'k,Russia
+69,Arrecife,Spain
+70,Arzew El Djedid,Algeria
+71,As Suways,Egypt
+72,Ash Shariqah,United Arab Emirates
+73,Ashdod,Israel
+74,Ashqelon,Israel
+75,Aspropirgos,Greece
+76,Astrakhan Port,Russia
+77,Atapupu,Indonesia
+79,Auckland,New Zealand
+80,Augusta,Italy
+81,Avatiu,Cook Islands
+82,Aveiro,Portugal
+83,Aviles,Spain
+84,Avonmouth,United Kingdom
+85,Az Zawiya,Libya
+86,Bahai De La Habana,Cuba
+87,Bahia De Las Minas,Panama
+88,Bahia De Matarani,Peru
+89,Bahia De Valparaiso,Chile
+90,Bahia Quintero (Ventanas),Chile
+91,Bahia San Nicolas,Peru
+92,Bahia San Vicente,Chile
+93,Baie Comeau,Canada
+94,Baie De Kouaoua,New Caledonia
+95,Baie Du Marigot,Saint Martin
+97,Baie Ugue,New Caledonia
+98,Bajo Grande,Venezuela
+99,Bakar,Croatia
+100,Baku Port,Azerbaijan
+101,Balboa,Panama
+102,Balikpapa,Indonesia
+103,Baltimore,U.S.A.
+104,Baltiysk,Russia
+105,Bamdar-E Pars Terminal,Iran
+106,Bamdar-E Shahid Reajie,Iran
+107,Bandar Abbas,Iran
+108,Bandar Khomeyni,Iran
+109,Bandirma,Turkey
+110,Banghazi,Libya
+111,Bangkok,Thailand
+112,Banjarmasin,Indonesia
+113,Banjul,Gambia
+114,Banten,Indonesia
+115,Banzart,Tunisia
+116,Bar,Montenegro
+117,Barbor's Point,U.S.A.
+118,Barcelona,Spain
+119,Bari,Italy
+120,Barranquilla,Colombia
+121,Barry,United Kingdom
+122,Basseterre,Saint Kitts and Nevis
+123,Basuo,China
+124,Bata,Equatorial Guinea
+125,Batangas City,Philippines
+126,Baton Rouge,U.S.A.
+127,Batumi,Georgia
+128,Baubau,Indonesia
+130,Bay City,U.S.A.
+131,Bayonne,France
+132,Bayrut,Lebanon
+133,Bayuquan,China
+134,Beaumont,U.S.A.
+135,Bedyansk,Ukraine
+136,Beihai,China
+137,Beira,Mozambique
+138,Bejaia,Algeria
+139,Belawan,Indonesia
+140,Belem,Brazil
+141,Belfast,United Kingdom
+142,Belize City,Belize
+143,Bellingham,U.S.A.
+144,Benicia,U.S.A.
+145,Benoa,Indonesia
+146,Berbera,Somalia
+147,Bergen,Norway
+148,Big Creek,Belize
+149,Bintulu Port,Malaysia
+150,Bissau,Guinea-Bissau
+151,Bitung,Indonesia
+152,Blanglancang,Indonesia
+153,Bluff Harbor,New Zealand
+154,Bohai Bay,China
+155,Bonny,Nigeria
+156,Bontang LNG Terminal,Indonesia
+157,Boosaaso,Somalia
+158,Bordeaux,France
+159,Boston,U.S.A.
+160,Boston,United Kingdom
+161,Botany Bay,Australia
+162,Botas,Turkey
+163,Botas Natural Gas Terminal,Turkey
+164,Brades,Montserrat
+165,Brake,Germany
+166,Brasil Port,Brazil
+167,Bremen,Germany
+168,Bremerhaven,Germany
+169,Brevik,Norway
+170,Bridgeport,U.S.A.
+171,Bridgetown,Barbados
+172,Brighton,Trinidad and Tobago
+173,Brindisi,Italy
+174,Brisbane,Australia
+175,Brofjorden,Sweden
+176,Broome,Australia
+177,Brownsville,U.S.A.
+178,Bruges,Belgium
+179,Brunsbuttel Elbahafen,Germany
+180,Brunswick,U.S.A.
+181,Buchanan,Liberia
+182,Buco,Philippines
+183,Buenaventura,Colombia
+184,Buenos Aires,Argentina
+185,Buffington,U.S.A.
+186,Buka,Papua New Guinea
+187,Bukhta Vanino,Russia
+188,Bukhta nagayeva (Nagadan),Russia
+189,Bullen Baai,Curacao
+190,Bunbury,Australia
+191,Bur Safago,Egypt
+192,Bur Said (Port Said),Egypt
+193,Burgas,Bulgaria
+194,Burnie,Australia
+195,Burns Harbor,U.S.A.
+196,Bushehr,Iran
+197,Butinge Oil Terminal,Lithuania
+198,Butuan City,Philippines
+199,Cabanas,Cuba
+200,Cabedelo,Brazil
+201,Cadiz,Spain
+202,Cagatan De Oro,Philippines
+203,Cagliari,Italy
+204,Cairns,Australia
+205,Calabar,Nigeria
+206,Calais,France
+207,Calcutta,India
+208,Caleta Patillos,Chile
+209,Calumet Harbor,U.S.A.
+210,Campana,Argentina
+211,Canaport (St. John),Canada
+212,Canaveral Harbor,U.S.A.
+213,Cang Doosan Vina,Vietnam
+214,Cap Haitien,Haiti
+215,Cape Town,South Africa
+216,Caracasbaai,Curacao
+217,Cardiff,United Kingdom
+218,Cartagena,Colombia
+219,Cartagena,Spain
+220,Casablanca,Morocco
+221,Castries,Saint Lucia
+222,Catania,Italy
+223,Cayo Moa Grande,Cuba
+224,Cebu,Philippines
+225,Chaguaramas,Trinidad and Tobago
+226,Chan Bahar,Iran
+227,Changshu,China
+228,Changzhou,China
+229,Chaozhou,China
+230,Charco Azul,Panama
+231,Charleston,U.S.A.
+232,Charlestown,Saint Kitts and Nevis
+233,Charlotte Amalie,U.S. Virgin Islands
+234,Chatnam Docks,United Kingdom
+235,Chennai (Madras),India
+236,Cherry Point,Canada
+237,Chester,U.S.A.
+238,Chi-Lung,Taiwan
+239,Chiba Ko,Japan
+240,Chiriqui Grande,Panama
+241,Chittagong,Bangladesh
+242,Chiwan,China
+243,Christiansted,U.S. Virgin Islands
+244,Cienfuegos,Cuba
+245,Cilacap,Indonesia
+246,Cirebon,Indonesia
+247,Civitavecchia,Italy
+248,Clarkson,Canada
+249,Cleveland,U.S.A.
+251,Clifton Pier,Bahamas
+252,Coatzacoalcos,Mexico
+253,Coles Bay Oil Terminal,Sint Maarten
+254,Colombo,Sri Lanka
+255,Colonia,Micronesia
+256,Come By Chance Harbor,Canada
+257,Comodoro Rivadavia,Argentina
+258,Conakry,Guinea
+259,Conchan Oil Terminal,Peru
+260,Constanta,Romania
+261,Corinto,Nicaragua
+262,Cork,Ireland
+263,Coronei,Chile
+264,Corpus Christi,U.S.A.
+265,Cotonou,Benin
+266,Covenas Offshore Term.,Colombia
+267,Cueta,Spain
+268,Cuxhaven,Germany
+269,Da Nang,Vietnam
+270,Daesan Hang,South Korea
+271,Dahej,India
+272,Dakar,Senegal
+273,Dalian,China
+274,Damietta,Egypt
+275,Damman,Saudi Arabia
+276,Dampier,Australia
+277,Dandong,China
+278,Dar Es Salaam,Tanzania
+279,Daru,Papua New Guinea
+280,Darwin,Australia
+281,Davao,Philippines
+282,Davisville Depot,U.S.A.
+283,De Kastri,Russia
+284,Degrad Des Cannes,French Guiana
+285,Delfzijl,Netherlands
+286,Delta Terminal,Turkey
+287,Derince Burnu,Turkey
+288,Devonport,Australia
+289,Dhaka,Bangladesh
+290,Dhamara Port,India
+291,Dhekelia,Cyprus
+292,Dili,Timor-Leste
+293,Djen-Djen,Algeria
+294,Djibouti,Djibouti
+295,Djupivogur,Iceland
+296,Djupviken,Norway
+297,Donggala,Indonesia
+298,Dos Bocas Terminal,Mexico
+299,Douala,Cameroon
+301,Dover Harbor,United Kingdom
+302,Drammen,Norway
+303,Drogheda,Ireland
+304,Duba,Saudi Arabia
+305,Duba Bulk Plant Tanker Terminal,Saudi Arabia
+306,Dubayy,United Arab Emirates
+307,Dublin,Ireland
+308,Dudinka,Russia
+309,Dumai,Indonesia
+310,Dunkerque Port Ouest,France
+311,Durban,South Africa
+312,Durres,Albania
+313,Dzaoudzi,Mayotte
+314,EL Segundo,U.S.A.
+315,East London,South Africa
+316,Eemshaven,Netherlands
+317,El Grao,Spain
+318,El Guamache,Venezuela
+319,El Jorf Lasfar,Morocco
+320,El Palito,Venezuela
+321,El-Adabiya,Egypt
+322,Elevsis,Greece
+323,Emden,Germany
+324,Empire,U.S.A.
+325,Ende,Indonesia
+326,Ensenada,Mexico
+327,Eregli,Turkey
+328,Esbjerg,Denmark
+329,Eskifjordhur,Iceland
+330,Esmeraldas,Ecuador
+331,Esperance,Australia
+332,Europa Point,Gibraltar
+333,Everett,U.S.A.
+334,Ez Zueitina,Libya
+335,Falkenberg,Sweden
+336,Falmouth,Jamaica
+337,Falmouth Harbour,United Kingdom
+338,Famagusta,Turkey
+339,Fang-Cheng,China
+340,Faradofay,Madagascar
+341,Fare,French Polynesia
+342,Fawley Marine Terminal,United Kingdom
+343,Felixstow,United Kingdom
+344,Ferrol,Spain
+345,Figueira Da Foz,Portugal
+346,Finnart Oil Terminal,United Kingdom
+347,Finnsnes,Norway
+348,Flekkefjorden,Norway
+349,Floro,Norway
+350,Fort De France,Martinique
+351,Fos,France
+352,Founchon,U.S.A.
+353,Foynes,Ireland
+354,Fredericia,Denmark
+355,Frederikshavn,Denmark
+356,Fredrikstad,Norway
+357,Freeport,Bahamas
+358,Freeport,U.S.A.
+359,Freeriksvaerk,Denmark
+360,Freetown,Sierra Leone
+361,Fremantle,Australia
+362,Fujayrah Harbor,United Arab Emirates
+363,Fukui Ko,Japan
+364,Fukuyama,Japan
+365,Funabashi,Japan
+366,Funafuti Atoll,Tuvalu
+367,Funchal,Portugal
+368,Furku,Finland
+369,Fushiki-Toyama,Japan
+370,Fuzhou,China
+371,Gabes,Tunisia
+372,Galeota Point Terminal,Trinidad and Tobago
+373,Galveston,U.S.A.
+374,Galway,Ireland
+375,Gaogang,China
+376,Garlston,United Kingdom
+377,Gary,U.S.A.
+378,Gavan Vysotsk,Russia
+379,Gavle,Sweden
+380,Gdansk,Poland
+381,Gdynia,Poland
+382,Gebig,Brazil
+383,Geelong,Australia
+384,Gela,Italy
+385,Gemlik,Turkey
+386,General Santos,Philippines
+387,Genova,Italy
+388,Georgetown,Bahamas
+389,Georgetown,Cayman Islands
+390,Georgetown,Guyana
+391,Geraldton,Australia
+392,Ghazaquet,Algeria
+393,Ghent,Belgium
+394,Gijon,Spain
+395,Gioia Tauro,Italy
+396,Gisborne,New Zealand
+397,Gizo Harbor,Solomon Islands
+398,Gladstone,Australia
+399,Glasgow,United Kingdom
+400,Glomfjord,Norway
+401,Golcuk Burnu,Turkey
+402,Golfito,Costa Rica
+403,Gomen,New Caledonia
+404,Goole,United Kingdom
+405,Goose Bay,Canada
+406,Gorgon LNG,Australia
+407,Gorontalo,Indonesia
+408,Goteborg,Sweden
+410,Gourd Shanzui,China
+411,Gove,Australia
+412,Grand Haven,U.S.A.
+413,Grand Isle,U.S.A.
+414,Grand Turk,Turks and Caicos Islands
+415,Grangemouth,United Kingdom
+416,Gravesend,United Kingdom
+417,Great Yarmouth,United Kingdom
+418,Green Bay,U.S.A.
+419,Grenaa Havn,Denmark
+420,Gresik,Indonesia
+421,Grimsby,United Kingdom
+422,Guaiba Island Terminal,Brazil
+423,Guangdong Yangjiang Port,China
+424,Guangxi Beibu Gulf Port,China
+425,Guangzhou,China
+426,Guayaquil,Ecuador
+427,Guaymas,Mexico
+428,Gulfport,U.S.A.
+429,Gulluk,Turkey
+430,Gustavia,Saint-Barthelemy
+431,Gwangyang Hang,South Korea
+432,Hachinohe Ko,Japan
+433,Hai Phong,Vietnam
+434,Haifa,Israel
+435,Haifeng power,China
+436,Haikou,China
+437,Haimen,China
+438,Hakata,Japan
+439,Hakodate Ko,Japan
+440,Halden,Norway
+441,Haldia Port,India
+442,Halifax,Canada
+443,Halmstad,Sweden
+444,Hamada Ko,Japan
+445,Hamburg,Germany
+446,Hamilton,Canada
+447,Hamina,Finland
+448,Hammerfest,Norway
+449,Hanko,Finland
+450,Hankow,China
+451,Hannan Ko,Japan
+452,Harbor Yeweiju,China
+453,Harlingen,Netherlands
+454,Harmac,Canada
+455,Haroysund,Norway
+456,Haydarpasa,Turkey
+457,Haypoint,Australia
+458,Helsingborg,Sweden
+459,Helsinki,Finland
+461,Heysham,United Kingdom
+462,Higashi-Harima,Japan
+463,Hilo,U.S.A.
+464,Himeji,Japan
+465,Hiroshima,Japan
+466,Hirtshals,Denmark
+467,Hitachi,Japan
+468,Hobart,Australia
+469,Hobro,Denmark
+470,Hofu,Japan
+471,Homikawa,Japan
+472,Hon Gai,Vietnam
+473,Hong Kong,Hong Kong
+474,Honiara,Solomon Islands
+475,Honolulu,U.S.A.
+476,Hopa,Turkey
+477,Horta,Portugal
+478,Horten,Norway
+479,Hososhima Ko,Japan
+480,Houston,U.S.A.
+481,Hua-Lien Kang,Taiwan
+482,Huelva,Spain
+483,Huizhou,China
+484,Husum,Germany
+485,Husum,Sweden
+486,Ijmuiden,Netherlands
+487,Iligan,Philippines
+488,Illichivsk,Ukraine
+489,Imabari Ko,Japan
+490,Imatra,Finland
+491,Imbituba,Brazil
+492,Immingham,United Kingdom
+493,Inchon,South Korea
+494,Indiana Harbor,U.S.A.
+495,Indonesia Morowali Industrial Park,Indonesia
+496,Inkoo,Finland
+497,Ipswich,United Kingdom
+498,Iquique,Chile
+499,Iraklion,Greece
+500,Ishikari Bay New Port,Japan
+501,Ishinomaki Ko,Japan
+502,Iskenderun,Turkey
+503,Istanbul,Turkey
+504,Itajai,Brazil
+505,Itaqui,Brazil
+506,Iverness,United Kingdom
+507,Iwakuni Ko,Japan
+508,Izhevskoye,Russia
+509,Izmir,Turkey
+510,JSW Jaigad Port Limited,India
+511,Jabal Az Zannah-Ruways,United Arab Emirates
+512,Jacksonville,U.S.A.
+513,Jakarta,Indonesia
+514,Jakobstad,Finland
+515,Jayapura,Indonesia
+516,Jiangyin,China
+517,Jiddah,Saudi Arabia
+518,Jiddah Oil,Saudi Arabia
+519,Jimenez,Philippines
+520,Jinzhou Wan,China
+521,Joensuu,Finland
+522,Johor,Malaysia
+523,Jose Terminal,Venezuela
+524,Joutseno,Finland
+525,Ju Aymah LPG Terminal,Saudi Arabia
+526,Kaba Burnu,Turkey
+527,Kagoshima Ko,Japan
+528,Kakinada Bay,India
+529,Kaliningrad,Russia
+530,Kalmar,Sweden
+531,Kalundborg,Denmark
+532,Kamaishi Ko,Japan
+533,Kamarajar Port,India
+534,Kampong Saom,Cambodia
+535,Kamsar,Guinea
+536,Kanazawa,Japan
+537,Kanda,Japan
+538,Kandalaksha,Russia
+539,Kandla,India
+540,Kao Hsiung,Taiwan
+541,Karabiga,Turkey
+542,Karachi,Pakistan
+543,Karaikal Port,India
+544,Karatsu,Japan
+545,Karlshamn,Sweden
+546,Karsto,Norway
+547,Kashima Ko,Japan
+548,Kasim Terminal,Indonesia
+549,Kaskinen,Finland
+550,Kaukas,Finland
+551,Kavala,Greece
+552,Kavieng Harbor,Papua New Guinea
+553,Kavkaz Oil Terminal,Russia
+554,Kawasaki Ko,Japan
+555,Kemaman Harbor,Malaysia
+556,Kemi,Finland
+557,Kendari,Indonesia
+558,Kerch,Ukraine
+560,Khawr Fakkan,United Arab Emirates
+561,Khoms,Libya
+562,Khorramshahr,Iran
+563,Kiel,Germany
+564,Kieta,Papua New Guinea
+565,Kiire,Japan
+566,Kikuma Ko,Japan
+567,Kilifi,Kenya
+568,Kimbe,Papua New Guinea
+569,King Fahd Port,Saudi Arabia
+570,King's Lynn,United Kingdom
+571,Kingston,Jamaica
+572,Kingston Upon Hull,United Kingdom
+573,Kingstown,Saint Vincent and the Grenadines
+574,Kinuura Ko,Japan
+575,Kiribati,Kiribati
+576,Kirteh Oil Terminal,Malaysia
+577,Kisarazu Ko,Japan
+578,Klaipeda,Lithuania
+580,Kobe,Japan
+581,Kobenhavn,Denmark
+582,Kochi (Chochin),India
+583,Kochi Ko,Japan
+584,Koge,Denmark
+585,Kokkala,Finland
+586,Koko,Nigeria
+587,Kolding,Denmark
+588,Komatsushima,Japan
+590,Koolan,Australia
+591,Koper,Slovenia
+592,Korsakov,Russia
+593,Kota Baru,Indonesia
+594,Kota Kinabalu,Malaysia
+595,Kotka,Finland
+596,Kralendijk,Bonaire
+597,Krishnapatnam Port,India
+598,Kristiansand,Norway
+599,Kristiansund,Norway
+601,Kuantan New Port,Malaysia
+602,Kuching,Malaysia
+603,Kudamatsu,Japan
+604,Kulevi Oil Terminal,Georgia
+605,Kunda,Estonia
+606,Kunsan,South Korea
+607,Kupang,Indonesia
+608,Kure,Japan
+609,Kushiro Ko,Japan
+610,Kwajalein,Marshall Islands
+611,Kyrenia,Turkey
+612,LNG Tangguh,Indonesia
+613,La Baie (Port Alfred),Canada
+615,La Coruna,Spain
+616,La Guaira,Venezuela
+617,La Libertad,Ecuador
+618,La Pallice,France
+619,La Plata,Argentina
+620,La Spezia,Italy
+621,Laayoune,Western Sahara
+622,Lae,Papua New Guinea
+623,Lafarge,Indonesia
+624,Lagos,Nigeria
+626,Lahad Datu,Malaysia
+627,Lake Charles,U.S.A.
+628,Lakselv,Norway
+629,Lamu,Kenya
+630,Lanqiao Port,China
+631,Larnaca,Cyprus
+632,Larvik,Norway
+633,Las Palmas,Spain
+634,Lautoka Harbor,Fiji
+635,Lazaro Cardenas,Mexico
+636,Le Legue,France
+637,Leith,United Kingdom
+638,Lele Harbor,Micronesia
+639,Lerwick,United Kingdom
+640,Les Sables D' Olonne,France
+641,Levuka,Fiji
+642,Lianyungang,China
+643,Libreville,Gabon
+644,Liepaja,Latvia
+645,Limassol,Cyprus
+646,Limerick,Ireland
+647,Limetree Bay,U.S. Virgin Islands
+648,Linden,Guyana
+649,Lingkas,Indonesia
+650,Lirquen,Chile
+651,Lisboa,Portugal
+652,Liverpool,United Kingdom
+653,Livorno,Italy
+654,Lobito,Angola
+655,Lome,Toga
+656,London,United Kingdom
+657,London Gateway,United Kingdom
+658,Londonderry,United Kingdom
+659,Longkou Gang,China
+660,Longyan Port,China
+661,Lorient,France
+662,Los Angeles,U.S.A.
+663,Luanda,Angola
+664,Luba,Equatorial Guinea
+665,Lubeck-Travemunde,Germany
+666,Luderitz Bay,Namibia
+667,Luganville,Vanuatu
+668,Lulea,Sweden
+669,Lumut,Brunei
+670,Lumut,Malaysia
+671,Macae,Brazil
+672,Macau,Macau
+673,Mackay,Australia
+674,Madang,Papua New Guinea
+675,Madre De Deus,Brazil
+676,Magam Ruhunupura Mahinda Rajapaksa Port,Sri Lanka
+677,Magdalla,India
+678,Mahajanga,Madagascar
+679,Mailiao,Taiwan
+680,Maizuro Ko,Japan
+681,Majuro Atoll,Marshall Islands
+682,Makhachkala Port,Russia
+683,Malabo,Equatorial Guinea
+684,Malaga,Spain
+685,Malai,Fiji
+686,Malakal Harbor,Palau
+687,Male,Maldives
+688,Malmo,Sweden
+689,Malongo,Angola
+690,Maloy,Norway
+691,Manaus,Brazil
+692,Manila,Philippines
+693,Manitowoc,U.S.A.
+694,Manokwari Road,Indonesia
+695,Manta,Ecuador
+696,Mantyluoto,Finland
+697,Manzanillo,Mexico
+698,Manzanillo,Panama
+699,Map Ta Phut,Thailand
+700,Maputo,Mozambique
+701,Maracaibo,Venezuela
+702,Mariel,Cuba
+703,Marin,Spain
+704,Marina Di Carrara,Italy
+705,Mariupol,Ukraine
+706,Markenes,Norway
+707,Marmagao,India
+708,Marsa Sabratah,Libya
+709,Marsaxlokk,Malta
+710,Marseille,France
+711,Marsh Harbor,Bahamas
+712,Marugame Ko,Japan
+713,Masan,South Korea
+714,Masao,Philippines
+715,Matadi,Democratic Republic of the Congo
+716,Matanzas,Cuba
+717,Matsusaka,Japan
+718,Matsuyama,Japan
+719,Matthew Town,Bahamas
+720,Maumere,Indonesia
+721,Mazatlan,Mexico
+722,Mbulo,Solomon Islands
+724,Medway,United Kingdom
+725,Medway City,United Kingdom
+726,Mejillones,Chile
+727,Melbourne,Australia
+728,Menominee,U.S.A.
+729,Merak Mas Terminal,Indonesia
+730,Merauke,Indonesia
+731,Mersa Sfax,Tunisia
+732,Mersa Tobruq,Libya
+733,Mersin,Turkey
+734,Miami,U.S.A.
+735,Midia,Romania
+736,Mikawa,Japan
+737,Milazzo,Italy
+738,Milford Haven,United Kingdom
+739,Milner Bay,Australia
+740,Milwaukee,U.S.A.
+741,Mina Al Ahmadi,Kuwait
+742,Mina Jabal Ali,United Arab Emirates
+743,Mina Qabus,Oman
+744,Mina Raysut,Oman
+745,Mina Saqr,United Arab Emirates
+746,Mina Tarabulus (Tripoli),Libya
+747,Mishima-Kawanoe Ko,Japan
+748,Misratah,Libya
+749,Mitsiwa Harbor,Eritrea
+750,Mizushima Ko,Japan
+751,Mo Inlet,Norway
+752,Mobile,U.S.A.
+753,Moen,Micronesia
+754,Mohammedia,Morocco
+755,Mombasa,Kenya
+756,Monfalcone,Italy
+757,Mongla,Bangladesh
+758,Mongstad,Norway
+759,Monopoli,Italy
+760,Monrovia,Liberia
+761,Montego Bay,Jamaica
+762,Montevideo,Uruguay
+763,Montoir,France
+764,Montreal,Canada
+765,Morehead City,U.S.A.
+767,Moroni,Comoros
+768,Moss,Sweden
+769,Mostaganem,Algeria
+770,Motril,Spain
+771,Moutsamoudu,Comoros
+772,Muara Harbor,Brunei
+773,Muhamamad Bin Qasim,Pakistan
+774,Mumbai (bonbay),India
+775,Mundra,India
+776,Muqdisho,Somalia
+777,Murmansk,Russia
+778,Muroran Ko,Japan
+779,Muuga-Port of Talinn,Estonia
+780,Mykolayiv,Ukraine
+781,Naantali,Finland
+782,Nacala,Mozambique
+783,Nagasaki,Japan
+784,Nagoya Ko,Japan
+785,Nakhodka,Russia
+786,Namibe,Angola
+788,Nanao Ko,Japan
+789,Nantes,France
+790,Nantong,China
+791,Naoetsu Ko,Japan
+792,Napier,New Zealand
+793,Napoli,Italy
+794,Narvik,Norway
+795,Nasipit Port,Philippines
+796,Nassau,Bahamas
+797,Natal,Brazil
+798,Nauru,Nauru
+799,Navlakhi,India
+800,Ndora,Solomon Islands
+801,Neiafu,Tonga
+802,Nelson,New Zealand
+803,Nemrut Limani Bay,Turkey
+804,Nepoui,New Caledonia
+805,New Amsterdam,Guyana
+806,New Bedford,U.S.A.
+807,New Haven,U.S.A.
+808,New Holland,United Kingdom
+809,New Mangalore,India
+810,New Orleans,U.S.A.
+811,New Plymouth,New Zealand
+812,New Westminster,Canada
+813,New York-New Jersey,U.S.A.
+814,Newcastle,Australia
+815,Newport,United Kingdom
+816,Newport News,U.S.A.
+817,Nghe Tinh,Vietnam
+818,Nice,France
+819,Nicholls Town,Bahamas
+820,Niigata Ko,Japan
+821,Niihama,Japan
+822,Ningbo,China
+824,Norfolk,U.S.A.
+825,Norrkoping,Sweden
+826,North Ain Sukhna Port,Egypt
+827,Noshiro Ko,Japan
+828,Nouadhibou,Mauritania
+829,Nouakchott,Mauritania
+830,Noumea,New Caledonia
+831,Novorossiysk,Russia
+832,Nowshahr Port,Iran
+833,Nuevitas Bay,Cuba
+834,Nuku Alofa,Tonga
+835,Nyborg,Denmark
+836,Nynashamn,Sweden
+837,Oakland,U.S.A.
+838,Ocho Rios,Jamaica
+839,Odda,Norway
+840,Odense,Denmark
+841,Odesa,Ukraine
+842,Ofunato,Japan
+843,Oil terminal Agioi,Greece
+844,Oita Ko,Japan
+846,Olbia,Italy
+847,Omisalj,Croatia
+848,Onahama Ko,Japan
+849,Onne,Nigeria
+850,Onodo,Japan
+851,Onomichi-Itozaki,Japan
+852,Onslow,Australia
+853,Oostende,Belgium
+854,Oran,Algeria
+855,Oranjestad,Sint Eustatius
+856,Ormoc,Philippines
+857,Ormos Aliveriou,Greece
+858,Oro Bay,Papua New Guinea
+859,Ortona,Italy
+860,Osaka,Japan
+861,Oskarshamn,Sweden
+862,Oslo,Norway
+863,Otago,New Zealand
+864,Otaru Ko,Japan
+865,Oulo,Finland
+866,Oxelosund,Sweden
+867,PLTU Semen Tonasa,Indonesia
+868,Paagoumene,New Caledonia
+869,Paarden Baai - (Orangestad),Aruba
+870,Pago Pago Harbor,American Samoa
+871,Paita,Peru
+872,Paldiski,Estonia
+873,Palembang,Indonesia
+874,Palm Beach,U.S.A.
+875,Palmeira,Cape Verde
+876,Palua,Venezuela
+877,Panama City,U.S.A.
+878,Pangai,Tonga
+879,Panjang,Indonesia
+880,Papeete,French Polynesia
+881,Paradip,India
+882,Paramarico,Suriname
+883,Paranagua,Brazil
+884,Parepare,Indonesia
+885,Parnu,Estonia
+886,Pascagoula,U.S.A.
+887,Patrai,Greece
+889,Pelabuhan Sansakan,Malaysia
+890,Pelabuhan Sungai Udang,Malaysia
+891,Pelabuhan Tanjung Wangi,Indonesia
+892,PelabuhanRatuCoalPowerPlant,Indonesia
+893,Pelotas,Brazil
+894,Pemba,Mozambique
+895,Penglai,China
+896,Pepillo Salcedo,Dominican Republic
+897,Peterhead,United Kingdom
+898,Petrapavlovsk,Russia
+899,Philadelphia,U.S.A.
+900,Phillipsburg,Sint Maarten
+901,Phu My,Vietnam
+902,Phuket,Thailand
+903,Pichilingue,Mexico
+904,Picton,New Zealand
+905,Pipavav Bandar,India
+906,Piraievs,Greece
+907,Pitea,Sweden
+908,Playa De Guayanilla,Puerto Rico
+909,Playa De Ponce,Puerto Rico
+910,Ploce,Croatia
+911,Plymouth,Montserrat
+912,Plymouth,United Kingdom
+913,Pohang,South Korea
+914,Point Fortin,Trinidad and Tobago
+915,Point Lisa Port,Trinidad and Tobago
+916,Point Murat,Australia
+917,Point Noire,Republic of Congo
+918,Point Richmond,U.S.A.
+919,Pointe A Pierre,Trinidad and Tobago
+920,Pointe A Pitre,Guadeloupe
+921,Pomalaa,Indonesia
+922,Ponta Delgada,Portugal
+923,Pontianak,Indonesia
+924,Poole Harbour,United Kingdom
+925,Pornpei Harbor,Micronesia
+926,Porsgrunn,Norway
+927,Port Adelaide,Australia
+928,Port Alma,Australia
+929,Port Angeles,Canada
+930,Port Aransas,U.S.A.
+931,Port Arthur,U.S.A.
+932,Port Au Prince,Haiti
+933,Port Aux Basques,Canada
+934,Port Bayside NB,Canada
+935,Port Bonython,Australia
+936,Port Cartier,Canada
+937,Port D' Ajaccio,France
+938,Port Dalrymple,Australia
+939,Port De Aracaju,Brazil
+940,Port De Caen,France
+941,Port De Kribi,Cameroon
+942,Port De Salvador,Brazil
+943,Port Dickson,Malaysia
+944,Port Dover,Canada
+945,Port Elizabeth,Saint Vincent and the Grenadines
+946,Port Elizabeth,South Africa
+947,Port Esquivel,Jamaica
+948,Port Est,Reunion
+949,Port Everglades,U.S.A.
+950,Port Gentil,Gabon
+951,Port Giles,Australia
+952,Port Harcourt,Nigeria
+953,Port Hedland,Australia
+954,Port Hueneme,U.S.A.
+955,Port Huon,Australia
+956,Port Jerome,France
+957,Port Kembla,Australia
+958,Port Klang,Malaysia
+960,Port Latta,Australia
+961,Port Lavaca,U.S.A.
+962,Port Lincoln,Australia
+963,Port Louis,Mauritius
+964,Port Lyttelton,New Zealand
+965,Port Manatee,U.S.A.
+967,Port Methanier,Algeria
+968,Port Moresby,Papua New Guinea
+969,Port Nador,Morocco
+970,Port Noro,Solomon Islands
+971,Port Owendo,Gabon
+972,Port Pirie,Australia
+974,Port Saint Louis Du Rhone,France
+975,Port Sudan,Sudan
+976,Port Taman,Russia
+977,Port Vale Knights,Cape Verde
+978,Port Vila,Vanuatu
+979,Port Walcott,Australia
+980,Port de Longoni,Mayotte
+982,Port of Duqm,Oman
+983,Port of Le Havre,France
+984,Port of Rouen,France
+985,Port of Sillamäe,Estonia
+986,Port of Sohar,Oman
+987,Port of Spain,Trinidad and Tobago
+988,Port-De-Bouc,France
+989,Port-La-Nouvelle,France
+990,Portland,Australia
+991,Portland,U.S.A.
+992,Portland Harbour,United Kingdom
+993,"Portland, ME",U.S.A.
+994,Portmouth,U.S.A.
+995,Porto Alegre,Brazil
+996,Porto Da Praia,Cape Verde
+997,Porto De Leizoes,Portugal
+998,Porto De Maceio,Brazil
+999,Porto De Mucuripe,Brazil
+1000,Porto De Suape,Brazil
+1001,Porto Di Chioggia,Italy
+1002,Porto Di Corsini,Italy
+1003,Porto Di Lido-Venezia,Italy
+1004,Porto Di Malamocco,Italy
+1005,Porto Di Oristano,Italy
+1006,Porto Di Palermo,Italy
+1007,Porto Grande,Cape Verde
+1008,Porto Pecem,Brazil
+1009,Porto Torres,Italy
+1010,Portocel,Brazil
+1011,Portovecchio Di Piombino,Italy
+1012,Portsmouth Harbour,United Kingdom
+1013,Porvoo,Finland
+1014,Poti,Georgia
+1015,Pozzuoli,Italy
+1016,Praia De Vitoria,Portugal
+1017,Presque Isle,U.S.A.
+1018,Primorsk,Russia
+1019,Prince Rupert,U.S.A.
+1020,Probolinggo,Indonesia
+1021,Progreso,Mexico
+1022,Providence,U.S.A.
+1023,Providenciales,Turks and Caicos Islands
+1024,Puerto Bayovar,Peru
+1025,Puerto Bolivar,Colombia
+1026,Puerto Bolivar,Ecuador
+1027,Puerto Cabello,Venezuela
+1028,Puerto Cabezas,Nicaragua
+1029,Puerto Caldera,Chile
+1030,Puerto Caldera,Costa Rica
+1031,Puerto Castilla,Honduras
+1032,Puerto Chanaral,Chile
+1033,Puerto Colon,Panama
+1034,Puerto Cortes,Honduras
+1035,Puerto Cristobal,Panama
+1036,Puerto De Bilbao,Spain
+1037,Puerto De Carboneras,Spain
+1038,Puerto De Chimbote,Peru
+1039,Puerto De Garrucha,Spain
+1040,Puerto De Haina,Dominican Republic
+1041,Puerto De Hencan,Honduras
+1042,Puerto De Pasajes,Spain
+1043,Puerto Del Callao,Peru
+1044,Puerto Del Rosario,Spain
+1045,Puerto Ilo,Peru
+1046,Puerto Ingeniero White,Argentina
+1047,Puerto La Cruz,Venezuela
+1048,Puerto Madryn,Argentina
+1049,Puerto Miranda,Venezuela
+1050,Puerto Moin,Costa Rica
+1051,Puerto Montt,Chile
+1052,Puerto Nuevo,Colombia
+1053,Puerto Plata,Dominican Republic
+1054,Puerto Princesa,Philippines
+1055,Puerto Quetzal,Guatemala
+1056,Puerto San Antonio,Chile
+1057,Puerto San Martin,Argentina
+1058,Puerto Yabucoa,Puerto Rico
+1059,Pulau Baai,Indonesia
+1060,Pulau Pinang,Malaysia
+1061,Punta Cardon,Venezuela
+1062,Punta Lobitos (Bahia De Huarmey),Peru
+1063,Pusan,South Korea
+1064,Put Put,Papua New Guinea
+1065,Pyeongtaek Hang,South Korea
+1066,Qalhat LNG Terminal,Oman
+1067,Qingdao Gang,China
+1068,Qingdao Port,China
+1069,Qingzhou,China
+1070,Qinhuangdao,China
+1071,Qiwei,China
+1072,Quanzhou,China
+1073,Quebec,Canada
+1075,Quequen,Argentina
+1076,Qui Nhon,Vietnam
+1077,Raahe,Finland
+1078,Rabaul,Papua New Guinea
+1079,Rabigh,Saudi Arabia
+1080,Rada De Arica,Chile
+1081,Rada Di vado,Italy
+1082,Rade De Brest,France
+1083,Randers,Denmark
+1084,Rangoon,Myanmar
+1086,Ras Al Mishab,Saudi Arabia
+1087,Ras Al-Khair,Saudi Arabia
+1088,Ras Laffan,Qatar
+1089,Ras Tannurah,Saudi Arabia
+1090,Rauma,Finland
+1091,Rayong TPI Terminal,Thailand
+1092,Recife,Brazil
+1093,Reka Luga,Russia
+1094,Rethimnon,Greece
+1096,Reykjavik,Iceland
+1097,Richards Bay,South Africa
+1098,Riga,Latvia
+1099,Rijeka Luka,Croatia
+1100,Rio Bueno,Jamaica
+1101,Rio De Janeiro,Brazil
+1102,Rio Grande,Brazil
+1103,Rizhao,China
+1104,Road Harbor,British Virgin Islands
+1105,Rorvik,Norway
+1106,Rosario,Argentina
+1107,Rosarito,Mexico
+1108,Roseau,Dominica
+1109,Rostock,Germany
+1110,Rostov-Na-Donu,Russia
+1111,Rota,Northern Mariana Islands
+1112,Rotterdam,Netherlands
+1113,Rouge River,U.S.A.
+1114,Rumor Ko,Japan
+1115,Ruwais Port,Qatar
+1116,Safi,Morocco
+1117,Saganoseki Ko,Japan
+1118,Sagunto,Spain
+1119,Saint Helier Harbour,Jersey
+1120,Saint Peter Port,Guernsey
+1121,Saint-Malo,France
+1122,Saint-Marc,Haiti
+1123,Saipan,Northern Mariana Islands
+1124,Sakai Ko,Japan
+1125,Sakai-Senboku,Japan
+1126,Sakaide Ko,Japan
+1127,Sakata Ko,Japan
+1128,Sal Rei,Cape Verde
+1129,Salaverry,Peru
+1130,Saldanha Bay,South Africa
+1132,Salerno,Italy
+1133,Salina Cruz,Mexico
+1134,Samarinda,Indonesia
+1135,Sampit,Indonesia
+1136,Samsun,Turkey
+1137,San Diego,U.S.A.
+1138,San Fransisco,U.S.A.
+1139,San Giogrio,Italy
+1140,San Juan,Puerto Rico
+1141,San Miguel De Cozumel,Mexico
+1142,San Nicolas,Argentina
+1143,San Pedro,Cote d'Ivoire
+1144,San Pedro De Macoris,Dominican Republic
+1145,Sandnessjoen,Norway
+1146,Sandusky,U.S.A.
+1147,Sankt-Peterburg,Russia
+1148,Sanshandaocun,China
+1149,Santa Cruz De La Palma,Spain
+1150,Santa Cruz De Tenerife,Spain
+1151,Santa Maria,Colombia
+1152,Santander,Spain
+1153,Santiago De Cuba,Cuba
+1154,Santo Domingo,Dominican Republic
+1155,Santo Thomas De Castilla,Guatemala
+1156,Santos,Brazil
+1157,Sao Francisco,Brazil
+1158,Sao Sebastiao,Brazil
+1159,Sapangar Bay,Malaysia
+1160,Sapele,Nigeria
+1161,Sarnia,Canada
+1162,Sarroch Oil Terminal,Italy
+1163,Sassnitz,Germany
+1164,Sauda,Norway
+1165,Savannah,U.S.A.
+1166,Savonia,Italy
+1167,Sawakin Harbor,Sudan
+1168,Sayda,Lebanon
+1169,Searsport,U.S.A.
+1170,Seattle,U.S.A.
+1171,Seghe,Solomon Islands
+1172,Sekondi,Ghana
+1173,Sekupang,Indonesia
+1174,Semarang,Indonesia
+1175,Sendai-Shiogama,Japan
+1176,Sept Iles,Canada
+1177,Serangoon Harbor,Singapore
+1178,Sete,France
+1179,Setubal,Portugal
+1180,Sevilla,Spain
+1182,Shan T Ou,China
+1183,Shanghai,China
+1184,Shekou,China
+1185,Shibushi Wan,Japan
+1186,Shidao Newport,China
+1187,Shijing Longxiang,China
+1188,Shimizu Ko,Japan
+1189,Shoreham Harbour,United Kingdom
+1190,Shougang Jingtang,China
+1191,Shui Dong,China
+1192,Si Racha,Thailand
+1193,Sibolga,Indonesia
+1194,Sikka,India
+1195,Sines,Portugal
+1196,Singapore,Singapore
+1197,Sint Nicolaas Baai,Aruba
+1198,Sitrah,Bahrain
+1199,Skagen Havn,Denmark
+1200,Skelleftehamn,Sweden
+1201,Skhira,Tunisia
+1202,Skutskar,Sweden
+1203,Slagenstangen,Norway
+1204,Sodertalje,Sweden
+1205,Solvesborg,Sweden
+1206,Songkhla Harbor,Thailand
+1207,Soudha,Greece
+1208,Sousse,Tunisia
+1209,South Louisiana,U.S.A.
+1211,Southampton,United Kingdom
+1212,Soyo Angola LNG Terminal,Angola
+1213,Split,Croatia
+1214,St John,Canada
+1215,St John's,Canada
+1216,St Johns,Antigua and Barbuda
+1217,St Nazaire,France
+1218,St. George's,Grenada
+1219,Stagen,Indonesia
+1220,Stavanger,Norway
+1221,Steinkjer,Norway
+1222,Stenungsund,Sweden
+1223,Stockholm,Sweden
+1224,Stockton,U.S.A.
+1225,Stora Jatterson,Sweden
+1226,Stura,Norway
+1227,Subio Bay,Philippines
+1228,Sundaomen Wuz,China
+1229,Sunderland,United Kingdom
+1230,Sundsvall,Sweden
+1231,Superior,U.S.A.
+1232,Surabaya,Indonesia
+1233,Surigao City,Philippines
+1234,Susaki Ko,Japan
+1235,Suva Harbor,Fiji
+1236,Swanport,U.S.A.
+1237,Swinoujscie,Poland
+1238,Sydney,Australia
+1239,Sydney,Canada
+1240,Sydney,U.S.A.
+1241,Szczecin,Poland
+1242,Tachibana,Japan
+1243,Tacoma,U.S.A.
+1244,Taganrog,Russia
+1245,Tagonoura Ko,Japan
+1246,Tahaa,French Polynesia
+1247,Tai-Chung Kang,Taiwan
+1248,Taicang,China
+1249,Takamatsu,Japan
+1250,Takoradi,Ghana
+1251,Takuma,Japan
+1252,Talara,Peru
+1253,Talinn,Estonia
+1254,Tampa,U.S.A.
+1255,Tampico,Mexico
+1256,Tan-Shui,Taiwan
+1257,Tanah Merah,Indonesia
+1258,Tananger,Norway
+1260,Tangier-Mediterranean,Morocco
+1261,Tangshan (Jingtang),China
+1262,Tanjung Benete,Indonesia
+1263,Tanjung Geren,Indonesia
+1264,Tanjung Pelepas,Malaysia
+1265,Tanjung Sangata,Indonesia
+1266,Tanjung Sekong,Indonesia
+1267,Tanjungredeb,Indonesia
+1268,Tanjunguban,Indonesia
+1269,Tarabulus,Lebanon
+1270,Taranto,Italy
+1271,Tarawa Atoll,Kiribati
+1272,Tarragona,Spain
+1273,Tauranga,New Zealand
+1274,Teesport,United Kingdom
+1275,Tekirdag,Turkey
+1276,Teluk Bayur,Indonesia
+1277,Tema,Ghana
+1278,Temryuk,Russia
+1279,Terneuzen,Netherlands
+1280,Texas City,U.S.A.
+1281,Tg Mani,Malaysia
+1282,Tg. Sorong,Indonesia
+1283,Tha Thong,Thailand
+1284,Thamesport,United Kingdom
+1285,Thamshamm,Norway
+1286,Thanh Ho Chi Minh,Vietnam
+1288,Thessaloniki,Greece
+1289,Thevenard,Australia
+1290,Thunder Bay,Canada
+1291,Thyboron,Denmark
+1292,Tianjin Xin Gang,China
+1293,Tilbury,United Kingdom
+1294,Timaru,New Zealand
+1295,Tinian,Northern Mariana Islands
+1296,Toamasina,Madagascar
+1297,Tocopilla,Chile
+1298,Tokachi,Japan
+1299,Tokuyama,Japan
+1300,Tokyo Ko,Japan
+1301,Toledo,U.S.A.
+1302,Toliara,Madagascar
+1303,Tomakomai Ko,Japan
+1304,Tonghae,South Korea
+1305,Topolorampo,Mexico
+1306,Torina,Finland
+1307,Toronto,Canada
+1308,Toros Gubre,Turkey
+1309,Torrevieja,Spain
+1310,Townsville,Australia
+1311,Trabzon,Turkey
+1312,Trelleborg,Sweden
+1313,Trieste,Italy
+1314,Trincomalee Harbor,Sri Lanka
+1315,Trois Rivieres,Canada
+1316,Tromso,Norway
+1317,Trondheim,Norway
+1318,Tsingeli,Greece
+1319,Tsukumi Ko,Japan
+1320,Tsuruga Ko,Japan
+1321,Tuapse,Russia
+1322,Tuban,Indonesia
+1323,Tubarao,Brazil
+1324,Tunis,Tunisia
+1325,Turkmenbashi Port,Turkmenistan
+1326,Tuticorin,India
+1327,Tuxpan,Mexico
+1328,Two Harbors,U.S.A.
+1329,Tynemouth,United Kingdom
+1330,Ube Ko,Japan
+1331,Ujung Pandang,Indonesia
+1332,Uleelheue,Indonesia
+1333,Ulsan,South Korea
+1334,Umea Hamn,Sweden
+1335,Umm Al Qaywayn,United Arab Emirates
+1336,Umm Qasr,Iraq
+1337,Umm Said,Qatar
+1338,Uno Ko,Japan
+1339,Uturoa,French Polynesia
+1340,Uwajima Ko,Japan
+1341,Vaasa,Finland
+1342,Vaitape,French Polynesia
+1343,Valencia,Spain
+1344,Valletta Harbors,Malta
+1345,Vancouver,Canada
+1346,Vancouver,U.S.A.
+1347,Vanimo,Papua New Guinea
+1348,Varberg,Sweden
+1349,Varkaus,Finland
+1350,Varna,Bulgaria
+1351,Vasteras,Sweden
+1352,Ventspils,Latvia
+1353,Veracruz,Mexico
+1355,Victoria,Malaysia
+1356,Victoria,Seychelles
+1357,Vieux Fort,Saint Lucia
+1358,Vigo,Spain
+1359,Vikanes,Norway
+1360,Villagarcia De Arosa,Spain
+1361,Villanueva,Philippines
+1362,Vishakhapatnam,India
+1363,Vitoria,Brazil
+1364,Vladivostok,Russia
+1365,Vlissingen,Netherlands
+1366,Vlores,Albania
+1367,Voh,New Caledonia
+1368,Volos,Greece
+1369,Vostochnyy,Russia
+1370,Vung Tau,Vietnam
+1371,Vyborg,Russia
+1372,Waingapu,Indonesia
+1373,Wakamatsu Ko,Japan
+1374,Wakayama-Shimotsu Ko,Japan
+1375,Wallaroo,Australia
+1376,Walvis Bay,Namibia
+1377,Warren Point,Ireland
+1378,Warri,Nigeria
+1379,Waterford,Ireland
+1380,Weifang Port,China
+1381,Weihai,China
+1382,Weipa,Australia
+1383,Wellington,New Zealand
+1385,Wenzhou,China
+1386,Western Port,Australia
+1387,Wewak Harbor,Papua New Guinea
+1388,Whangerei,New Zealand
+1390,Whyalla,Australia
+1391,Wilhelmshaven,Germany
+1392,Willemstad,Curacao
+1393,"Wilmington, DE",U.S.A.
+1394,"Wilmington, NC",U.S.A.
+1395,Wisbech,United Kingdom
+1396,Wismar,Germany
+1397,Workington,United Kingdom
+1398,Xiagong,China
+1399,Xiamen,China
+1400,Xiuyu,China
+1401,Yakacik,Turkey
+1402,Yalova,Turkey
+1403,Yanbu,Saudi Arabia
+1404,Yangpu,China
+1405,Yantai,China
+1406,Yatsushiro Ko,Japan
+1407,Yawatahama,Japan
+1408,Yeysk,Russia
+1409,Yiantian,China
+1410,Yingkou,China
+1411,Yokkaichi,Japan
+1412,Yokohama Ko,Japan
+1413,Yokosuka Ko,Japan
+1414,Yuzhnyy,Ukraine
+1415,Zamboanga,Philippines
+1416,Zanzibar,Tanzania
+1417,Zarate,Argentina
+1418,Zarzis,Tunisia
+1419,Zeebrugge,Belgium
+1420,Zhangjiangang,China
+1421,Zhanjiang,China
+1422,Zhapu,China
+1423,Zhouliwang,China
+1424,Zhoushan,China
+1425,Zonguldak,Turkey
+1426,palma De Mallorca,Spain
+1427,rada Punta Arenas,Chile
