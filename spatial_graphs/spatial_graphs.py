@@ -391,7 +391,7 @@ class SpatialDiGraph(DiGraph):
 
     @classmethod
     def from_cpsp_benchmark(cls, p=0.2, N=20, len=10, rho=1., ell=2., seed=0):
-        """Create a spatial network with core-periphery structure.
+        """Create a spatial network with directed core-periphery structure.
 
         TODO: tidy docs
         Construct a synthetic spatial network that combines the directed core-periphery
@@ -437,6 +437,7 @@ class SpatialDiGraph(DiGraph):
 
         # matrix of probabilities based on community
         pmat = (0.5 + p) * M + (0.5 - p) * (1 - M)
+
         # add random space same as Expert
         with np.errstate(divide='ignore'):
             pmat /= dmat ** (-ell)
@@ -959,4 +960,127 @@ class SpatialGraph(Graph):
         g.part = partition
         g.cps = cps
         g.locs = nlocs
+        return g
+
+    @classmethod
+    def from_cpsp_benchmark(cls, p=0.2, ell=2., N=20, len=10, rho=1., seed=0):
+        """Create a spatial network with undirected core-periphery structure.
+
+        TODO: tidy docs
+        Construct a synthetic spatial network that combines undirected core-periphery
+        block structure of [1] and the spatial effects of [2].
+        Parameters:
+        ----------
+        p : float
+            set probabilites for directed core-periphery block matrix of probabilities.
+            p=0 returns an Erdos-Renyi random graph and p=0.5 returns the idealised
+            block structure as in [1].
+
+
+        References:
+        ----------
+        ..[1] Elliot et al., Core–periphery structure in directed networks
+        """
+
+        L = int(rho * N * (N - 1))
+        nodes = [x for x in range(N)]
+
+        # assign to cores and peripheries
+        n = N // 2
+        part = np.zeros(N)
+        part[0:n] = 1          # core
+        part[n:] = 0           # periphery
+
+        # idealised block matrix
+        M = np.zeros([N, N])  # noqa
+        M[:, 0: n] = 1.
+        M[:n, :] = 1.
+
+        # place nodes in space and calculate distances
+        rng = np.random.default_rng(seed)
+        nlocs = len * rng.random((N, 2))
+        dmat = np.array([[norm(a - b, 2) for b in nlocs] for a in nlocs])
+
+        # matrix of probabilities based on community
+        pmat = (0.5 + p) * M + (0.5 - p) * (1 - M)
+        # add random space same as Expert
+        with np.errstate(divide='ignore'):
+            pmat /= dmat ** (-ell)
+            pmat[pmat == np.inf] = 0.
+
+        # same as Rodrigo did (a little confused)
+        i, j = np.triu_indices_from(pmat, k=1)  # i < j
+
+        probas = pmat[i, j]
+        probas /= probas.sum()  # normalizations
+
+        draw = rng.multinomial(L, probas)
+        (idx,) = draw.nonzero()
+        fmat = sp.coo_matrix((draw[idx], (i[idx], j[idx])), shape=(N, N))
+        fmat = (fmat + fmat.T).tocoo()  # addition changes to csr
+        fmat = fmat.toarray()
+        partition = {node: int(community) for node, community in
+                     zip(nodes, part)}
+
+        # construct the SpatialGraph
+        g = cls.from_numpy_array(fmat, dists=dmat)
+        g.locs = nlocs
+        g.part = partition
+        return g
+
+    @classmethod
+    def from_cp_benchmark(cls, p=0.2, N=20, len=10, rho=1., seed=0):
+        """Create a spatial network with undirected core-periphery structure.
+
+        TODO: tidy docs
+        Construct a synthetic spatial network that combines undirected core-periphery
+        block structure of [1] and the spatial effects of [2].
+        Parameters:
+        ----------
+        p : float
+            set probabilites for directed core-periphery block matrix of probabilities.
+            p=0 returns an Erdos-Renyi random graph and p=0.5 returns the idealised
+            block structure as in [1].
+
+
+        References:
+        ----------
+        ..[1] Elliot et al., Core–periphery structure in directed networks
+        """
+
+        L = int(rho * N * (N - 1))
+        nodes = [x for x in range(N)]
+
+        # assign to cores and peripheries
+        n = N // 2
+        part = np.zeros(N)
+        part[0:n] = 1          # core
+        part[n:] = 0           # periphery
+
+        # idealised block matrix
+        M = np.zeros([N, N])  # noqa
+        M[:, 0: n] = 1.
+        M[:n, :] = 1.
+
+        rng = np.random.default_rng(seed)
+        # matrix of probabilities based on community
+        pmat = (0.5 + p) * M + (0.5 - p) * (1 - M)
+
+        # same as Rodrigo did (a little confused)
+        i, j = np.triu_indices_from(pmat, k=1)  # i < j
+
+        probas = pmat[i, j]
+        probas /= probas.sum()  # normalizations
+
+        draw = rng.multinomial(L, probas)
+        (idx,) = draw.nonzero()
+        fmat = sp.coo_matrix((draw[idx], (i[idx], j[idx])), shape=(N, N))
+        fmat = (fmat + fmat.T).tocoo()  # addition changes to csr
+        fmat = fmat.toarray()
+        partition = {node: int(community) for node, community in
+                     zip(nodes, part)}
+
+        # construct the SpatialGraph
+        g = cls.from_numpy_array(fmat)
+        g.part = partition
         return g

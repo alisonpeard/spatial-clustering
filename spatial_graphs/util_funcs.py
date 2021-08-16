@@ -6,6 +6,16 @@ import spatial_nets
 import numpy as np
 
 
+# utils
+def symmetrise_digraph(g):
+    fmat = (g.fmat + g.fmat.T) / 2
+    dmat = g.dists
+    g = SpatialGraph.from_numpy_array(fmat, dmat)
+    return g
+
+# modularities
+
+
 def modularity_gravity(g, res=1, constraint=None,  **kwargs):
     locs = LocationsDataClass(g)
     if constraint == "unconstrained":
@@ -147,15 +157,17 @@ def get_gravity_backbone(g, constraint="unconstrained"):
             spatial_nets, f"{constraint.capitalize()}Constrained")()
     else:
         raise ValueError("invalid constraint supplied")
-    _ = constr.fit_transform(locs, prediction)  # TODO: explain this line
+    _ = constr.fit_transform(locs, prediction)  # make it constrained
     pvals = constr.pvalues()
     pvals.set_significance()
     pos, neg = pvals.compute_backbone()  # returns matrices
     pos = pos.toarray() * 1
     neg = neg.toarray() * 1
     dists = g.dists
-    pos_bb = type(g).from_numpy_array(fmat=pos, dists=dists)
-    neg_bb = type(g).from_numpy_array(fmat=neg, dists=dists)
+    pos_bb = SpatialDiGraph.from_numpy_array(fmat=pos, dists=dists)
+    neg_bb = SpatialDiGraph.from_numpy_array(fmat=neg, dists=dists)
+    #pos_bb = type(g).from_numpy_array(fmat=pos, dists=dists)
+    #neg_bb = type(g).from_numpy_array(fmat=neg, dists=dists)
     return pos_bb, neg_bb
 
 
