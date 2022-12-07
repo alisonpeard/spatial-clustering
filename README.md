@@ -1,5 +1,5 @@
 # Clustering Methods for Spatial Networks
-Code for dissertation _Uncovering Unbiased Meso-scale Structures in Spatial Networks_ as part of the MSc in Mathematical Modelling and Scientific Computing 2020, Universtity of Oxford. This repository contains python packages for performing spatially-corrected clustering on networks and methods for plotting the results spatially.<br>
+Code for dissertation _Uncovering Unbiased Meso-scale Structures in Spatial Networks_ as part of the MSc in Mathematical Modelling and Scientific Computing 2020, Universtity of Oxford. This repository contains Python packages for performing spatially-corrected clustering on networks and methods for plotting the results spatially.<br>
 
 Clustering methods include modularity optimisation by spectral methods, and spatial backbone extraction as in [2] followed by standard modularity optimisaiton and core-periphery detection. Additionally asymmetric core-periphery detection code for directed graphs is included [3]. Spatial benchmark graphs are generated using a number of different spatial null models [1].
 
